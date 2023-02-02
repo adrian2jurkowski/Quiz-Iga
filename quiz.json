@@ -1,0 +1,54 @@
+[
+  {
+    "pytanie":"W ktorym roku urodzila sie Iga Jurkowska ?",
+    "a":2015,
+    "b":2016,
+    "c":2017,
+    "d":2018,
+    "prawidlowa_odpowiedz":"d"
+  },
+  {
+    "pytanie":"Jakie ma na drugie imie Iga Jurkowska ?",
+    "a":"Dorota",
+    "b":"Beata",
+    "c":"Monika",
+    "d":"Nie ma drugiego imienia",
+    "prawidlowa_odpowiedz":"d"
+  },
+  {
+    "pytanie":"Jak ma na imie chrzestna Igi Jurkowskiej ?",
+    "a":"Monika",
+    "b":"Edyta",
+    "c":"Anita",
+    "d":"Angelika",
+    "prawidlowa_odpowiedz":"c"
+  },
+  {
+    "pytanie":"Jak nazywa sie chrzestny Igi Jurkowskiej ?",
+    "a":"Wolkowicz",
+    "b":"Jurkowski",
+    "c":"Niziolek",
+    "d":"Firlit",
+    "prawidlowa_odpowiedz":"c"
+  },
+  {
+    "pytanie":"Jak nazywa sie grupa przedszkolna Igi Jurkowskiej?",
+    "a":"Sowki",
+    "b":"Jagodki",
+    "c":"Biedronki",
+    "d":"Jezyki",
+    "prawidlowa_odpowiedz":"a"
+  },
+  {
+    "pytanie":"Co wygladem przypomina lozko w pokoju Igi?",
+    "a":"Prostokat",
+    "b":"Namiot",
+    "c":"Domek",
+    "d":"Iglo",
+    "prawidlowa_odpowiedz":"c"
+  }
+]
+
+
+
+
